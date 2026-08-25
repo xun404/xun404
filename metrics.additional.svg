@@ -83,10 +83,10 @@
           <text x="192" y="104" font-size="10" fill="#666666" text-anchor="middle">
             09
           </text>
-          <text x="211" y="76" font-size="6" fill="#666666" text-anchor="middle">
-            6
+          <text x="211" y="72" font-size="6" fill="#666666" text-anchor="middle">
+            8
           </text>
-          <rect x="208" y="78" width="7" height="14" rx="3" ry="3" fill="#40c463"/>
+          <rect x="208" y="74" width="7" height="18" rx="3" ry="3" fill="#40c463"/>
           <text x="211" y="104" font-size="10" fill="#666666" text-anchor="middle">
             10
           </text>
@@ -104,10 +104,10 @@
           <text x="250" y="104" font-size="10" fill="#666666" text-anchor="middle">
             12
           </text>
-          <text x="269" y="88" font-size="6" fill="#666666" text-anchor="middle">
-            1
+          <text x="269" y="85" font-size="6" fill="#666666" text-anchor="middle">
+            2
           </text>
-          <rect x="266" y="90" width="7" height="2" rx="3" ry="3" fill="#9be9a8"/>
+          <rect x="266" y="87" width="7" height="5" rx="3" ry="3" fill="#9be9a8"/>
           <text x="269" y="104" font-size="10" fill="#666666" text-anchor="middle">
             13
           </text>
@@ -187,51 +187,51 @@
         </text>
         <g data-block="chart-bars">
           <text x="24" y="144" font-size="6" fill="#666666" text-anchor="middle">
-            21
+            22
           </text>
           <rect x="21" y="146" width="7" height="50" rx="3" ry="3" fill="#216e39"/>
           <text x="24" y="208" font-size="10" fill="#666666" text-anchor="middle">
             Sun
           </text>
-          <text x="56" y="154" font-size="6" fill="#666666" text-anchor="middle">
-            17
+          <text x="56" y="151" font-size="6" fill="#666666" text-anchor="middle">
+            19
           </text>
-          <rect x="53" y="156" width="7" height="40" rx="3" ry="3" fill="#216e39"/>
+          <rect x="53" y="153" width="7" height="43" rx="3" ry="3" fill="#216e39"/>
           <text x="56" y="208" font-size="10" fill="#666666" text-anchor="middle">
             Mon
           </text>
-          <text x="88" y="184" font-size="6" fill="#666666" text-anchor="middle">
+          <text x="88" y="185" font-size="6" fill="#666666" text-anchor="middle">
             4
           </text>
-          <rect x="85" y="186" width="7" height="10" rx="3" ry="3" fill="#9be9a8"/>
+          <rect x="85" y="187" width="7" height="9" rx="3" ry="3" fill="#9be9a8"/>
           <text x="88" y="208" font-size="10" fill="#666666" text-anchor="middle">
             Tue
           </text>
-          <text x="120" y="165" font-size="6" fill="#666666" text-anchor="middle">
+          <text x="120" y="167" font-size="6" fill="#666666" text-anchor="middle">
             12
           </text>
-          <rect x="117" y="167" width="7" height="29" rx="3" ry="3" fill="#30a14e"/>
+          <rect x="117" y="169" width="7" height="27" rx="3" ry="3" fill="#30a14e"/>
           <text x="120" y="208" font-size="10" fill="#666666" text-anchor="middle">
             Wed
           </text>
-          <text x="152" y="151" font-size="6" fill="#666666" text-anchor="middle">
+          <text x="152" y="153" font-size="6" fill="#666666" text-anchor="middle">
             18
           </text>
-          <rect x="149" y="153" width="7" height="43" rx="3" ry="3" fill="#216e39"/>
+          <rect x="149" y="155" width="7" height="41" rx="3" ry="3" fill="#216e39"/>
           <text x="152" y="208" font-size="10" fill="#666666" text-anchor="middle">
             Thu
           </text>
-          <text x="184" y="182" font-size="6" fill="#666666" text-anchor="middle">
+          <text x="184" y="183" font-size="6" fill="#666666" text-anchor="middle">
             5
           </text>
-          <rect x="181" y="184" width="7" height="12" rx="3" ry="3" fill="#9be9a8"/>
+          <rect x="181" y="185" width="7" height="11" rx="3" ry="3" fill="#9be9a8"/>
           <text x="184" y="208" font-size="10" fill="#666666" text-anchor="middle">
             Fri
           </text>
-          <text x="216" y="158" font-size="6" fill="#666666" text-anchor="middle">
+          <text x="216" y="160" font-size="6" fill="#666666" text-anchor="middle">
             15
           </text>
-          <rect x="213" y="160" width="7" height="36" rx="3" ry="3" fill="#30a14e"/>
+          <rect x="213" y="162" width="7" height="34" rx="3" ry="3" fill="#30a14e"/>
           <text x="216" y="208" font-size="10" fill="#666666" text-anchor="middle">
             Sat
           </text>
@@ -244,7 +244,7 @@
         </text>
         <rect x="330" y="144" width="58" height="7" rx="3" ry="3" fill="#30a14e"/>
         <text x="394" y="150" font-size="10" fill="#666666">
-          61%
+          60%
         </text>
         <text x="324" y="168" font-size="10" fill="#666666" text-anchor="end">
           TypeScript
@@ -256,8 +256,8 @@
         <text x="324" y="186" font-size="10" fill="#666666" text-anchor="end">
           SVG
         </text>
-        <rect x="330" y="180" width="9" height="7" rx="3" ry="3" fill="#9be9a8"/>
-        <text x="345" y="186" font-size="10" fill="#666666">
+        <rect x="330" y="180" width="10" height="7" rx="3" ry="3" fill="#9be9a8"/>
+        <text x="346" y="186" font-size="10" fill="#666666">
           10%
         </text>
         <text x="324" y="204" font-size="10" fill="#666666" text-anchor="end">

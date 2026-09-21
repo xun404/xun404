@@ -44,19 +44,19 @@
             Following 2 users
           </text>
           <g data-block="calendar-grid">
-            <rect class="day" fill="#9be9a8" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#40c463" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="328" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
           </g>
           <g transform="translate(253,56)" fill="#959da5">
@@ -1215,7 +1215,7 @@
           </svg>
         </g>
         <text x="277" y="138" font-size="14" fill="#777777">
-          Average per day at ~3.08
+          Average per day at ~3.06
         </text>
       </svg>
     </g>

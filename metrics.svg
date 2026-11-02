@@ -44,20 +44,20 @@
             Following 2 users
           </text>
           <g data-block="calendar-grid">
-            <rect class="day" fill="#30a14e" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#30a14e" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="328" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#216e39" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#30a14e" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#30a14e" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
           </g>
           <g transform="translate(253,56)" fill="#959da5">
             <svg width="16" height="16" viewBox="0 0 16 16" class="octicon">
@@ -1144,10 +1144,10 @@
                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.06 0,1.06 z"/>
                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.06 1.7,2.06 z"/>
               </g>
-              <g transform="translate(-1.70, 7.00)">
-                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.00 0,1.00 z"/>
-                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.00 1.7,2.00 z"/>
+              <g transform="translate(-1.70, 6.57)">
+                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.43 0,1.43 z"/>
+                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.43 1.7,2.43 z"/>
               </g>
               <g transform="translate(-3.40, 8.00)">
                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1191,7 +1191,7 @@
           </svg>
         </g>
         <text x="277" y="70" font-size="14" fill="#777777">
-          Current streak 12 days
+          Current streak 13 days
         </text>
         <g transform="translate(253,78)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
@@ -1435,7 +1435,7 @@
               <circle cx="88" cy="42" r="14"/>
             </clipPath>
           </defs>
-          <image class="avatar" href="data:image/png;base64,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" x="74" y="28" width="28" height="28" clip-path="url(#people-following-2)"/>
+          <image class="avatar" href="data:image/png;base64,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" x="74" y="28" width="28" height="28" clip-path="url(#people-following-2)"/>
         </g>
       </svg>
     </g>
